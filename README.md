@@ -5,14 +5,14 @@ AWS Community repository of custom Config rules. Contributions welcome. Instruct
 **Please review each rule carefully and test within your dev/test environment before integrating into production.**
 
 ## Getting started with the developement of AWS Config Rules
-See the [CONTRIBUTING.md](https://github.com/awslabs/aws-config-rules/CONTRIBUTING.md).
+See the [CONTRIBUTING.md](https://github.com/viswadevops/aws-config-rules/CONTRIBUTING.md).
 
 ## Related Projects
-RDK (Rule Development Kit) - https://github.com/awslabs/aws-config-rdk
+RDK (Rule Development Kit) - https://github.com/viswadevops/aws-config-rdk
 
-RDKLib (Library to run rules at scale) - https://github.com/awslabs/aws-config-rdklib
+RDKLib (Library to run rules at scale) - https://github.com/viswadevops/aws-config-rdklib
 
-Config Rules Engine (Deploy and manage Rules at scale) - https://github.com/awslabs/aws-config-engine-for-compliance-as-code
+Config Rules Engine (Deploy and manage Rules at scale) - https://github.com/viswadevops/aws-config-engine-for-compliance-as-code
 
 ## Deploy one of the Config rules of this repo
 
@@ -21,7 +21,7 @@ Whenever the rules are created with RDK, you can leverage the RDK tool to deploy
 ### With the RDK
 In your working folder,
 ```
-git clone https://github.com/awslabs/aws-config-rules
+git clone https://github.com/viswadevops/aws-config-rules
 cd python
 rdk deploy NAME_OF_THE_RULE
 ```
