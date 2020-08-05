@@ -1,5 +1,3 @@
-# This file made available under CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/legalcode)
-#
 # Description: Check that security groups do not have an inbound rule
 #              with protocol of "All".
 #

@@ -1,6 +1,3 @@
-#
-# This file made available under CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/legalcode)
-#
 # Description: Check if any s3 bucket has bucket policy and if it does mark it non-compliant
 #
 # Trigger Type: Change Triggered

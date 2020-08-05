@@ -1,6 +1,3 @@
-#
-# This file made available under CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/legalcode)
-#
 # Ensure all RDS DB Instances are of a Given Type
 # Description: Checks that all RDS DB instances are of the type specified
 #

@@ -1,6 +1,3 @@
-#
-# This file made available under CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/legalcode)
-#
 # Ensure all EC2 Instances are of a Given Type
 # Description: Checks that all EC2 instances are of the type specified
 #

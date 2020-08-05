@@ -1,6 +1,3 @@
-#
-# This file made available under CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/legalcode)
-#
 # Ensure CloudTrail log file validation is enabled
 # Description: Checks that tracked trails have log file integrity activated.
 #

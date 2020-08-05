@@ -1,6 +1,3 @@
-#
-# This file made available under CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/legalcode)
-#
 # ec2_security_group_ingress.py
 # Trigger Type: Change Triggered
 #

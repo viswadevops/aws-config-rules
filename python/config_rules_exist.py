@@ -1,6 +1,3 @@
-#
-# This file made available under CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/legalcode)
-#
 # Ensure one or several specific Config Rules exist
 # Description: Checks that specific config rules exists, including itself if configured.
 #

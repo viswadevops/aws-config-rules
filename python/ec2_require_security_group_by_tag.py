@@ -1,6 +1,3 @@
-#
-# This file made available under CC0 1.0 Universal (https://creativecommons.org/publicdomain/zero/1.0/legalcode)
-#
 # Ensure all EC2 Instances that have a certain tag format also have a specific security group
 # Description: Checks that all EC2 instances that have a certain tag format also have a specific security group
 #
